@@ -35,25 +35,25 @@ permalink: /progress/
     <div class="progress-card">
       <h3>Day 1 (Thursday): Calculus</h3>
       <p>Submit your confidence and any question for this day:</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQefeaGERe0_Afo-opbz7nOkNHICIYku6OEJAyOM2BQkkxyQ/viewform?usp=pp_url&entry.476346318=Thursday" target="_blank" class="btn btn-colab">Submit Feedback</a>
+      <a href="https://forms.gle/hf2ysrfgFBiQaqqt6" target="_blank" class="btn btn-colab">Submit Feedback</a>
     </div>
 
     <div class="progress-card">
       <h3>Day 2 (Friday): Clustering Techniques</h3>
       <p>Submit your confidence and any question for this day:</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQefeaGERe0_Afo-opbz7nOkNHICIYku6OEJAyOM2BQkkxyQ/viewform?usp=pp_url&entry.476346318=Friday" target="_blank" class="btn btn-colab">Submit Feedback</a>
+      <a href="https://forms.gle/LCCdZwFayjYAQvVi9" target="_blank" class="btn btn-colab">Submit Feedback</a>
     </div>
 
     <div class="progress-card">
       <h3>Day 3 (Monday): Latent Variable Models</h3>
       <p>Submit your confidence and any question for this day:</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQefeaGERe0_Afo-opbz7nOkNHICIYku6OEJAyOM2BQkkxyQ/viewform?usp=pp_url&entry.476346318=Monday" target="_blank" class="btn btn-colab">Submit Feedback</a>
+      <a href="https://forms.gle/4jt512MTu5JXkXvBA" target="_blank" class="btn btn-colab">Submit Feedback</a>
     </div>
 
     <div class="progress-card">
       <h3>Day 4 (Tuesday): Linear Algebra - Matrix Factorization</h3>
       <p>Submit your confidence and any question for this day:</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQefeaGERe0_Afo-opbz7nOkNHICIYku6OEJAyOM2BQkkxyQ/viewform?usp=pp_url&entry.476346318=Tuesday" target="_blank" class="btn btn-colab">Submit Feedback</a>
+      <a href="https://forms.gle/48saAk3DnmssrpMj9" target="_blank" class="btn btn-colab">Submit Feedback</a>
     </div>
 
   </section>
