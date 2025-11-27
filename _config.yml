@@ -27,7 +27,7 @@ navigation:
     url: /
   - title: Syllabus
     url: /syllabus/
-  - title: Feedback Track
+  - title: Progress Tracker
     url: /progress/
 
 # Tufte settings

@@ -8,7 +8,7 @@ permalink: /syllabus/
   <nav class="site-nav">
     <a href="{{ site.baseurl }}/">Home</a>
     <a href="{{ site.baseurl }}/syllabus/">Syllabus</a>
-    <a href="{{ site.baseurl }}/progress/">Feedback Track</a>
+    <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
   </nav>
 </header>
 

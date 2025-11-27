@@ -7,7 +7,7 @@ title: Home
   <nav class="site-nav">
     <a href="{{ site.baseurl }}/">Home</a>
     <a href="{{ site.baseurl }}/syllabus/">Syllabus</a>
-    <a href="{{ site.baseurl }}/progress/">Feedback Track</a>
+    <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
   </nav>
 </header>
 
@@ -31,7 +31,7 @@ title: Home
       <li><strong>4 Days of Lectures</strong> covering Calculus, Clustering, Latent Variable Models, and Linear Algebra</li>
       <li><strong>4 Programming Sessions</strong> with hands-on Colab notebooks</li>
       <li><strong>Final Exam</strong> on Wednesday</li>
-      <li><strong>Feedback Track</strong> to submit your questions and feedback per day</li>
+      <li><strong>Progress Tracker</strong> to submit your questions and feedback per day</li>
     </ul>
   </section>
 
@@ -101,7 +101,7 @@ title: Home
         <span>Daily schedule and materials</span>
       </a>
       <a href="{{ site.baseurl }}/progress/" class="link-card">
-        <strong>Feedback Track</strong><br/>
+        <strong>Progress Tracker</strong><br/>
         <span>Submit feedback per day</span>
       </a>
     </div>
