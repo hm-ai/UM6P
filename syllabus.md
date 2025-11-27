@@ -26,7 +26,7 @@ permalink: /syllabus/
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Calculus_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
         <a href="https://colab.research.google.com/drive/1Oc11-xubSDAxjmoAOw7dx3McZ2t1C6FP?usp=sharing" class="btn btn-colab">Colab</a>
-        <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
+        <a href="https://colab.research.google.com/drive/1RHigzITjEU3ZMgaV4EOm2c4d8LfoBV4R?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
     </div>
 
