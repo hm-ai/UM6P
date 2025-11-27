@@ -25,7 +25,7 @@ permalink: /syllabus/
       <p>Applications of calculus in machine learning, with a focus on optimization and gradient-based methods.</p>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Calculus_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
-        <a href="https://colab.research.google.com/drive/1MlE9iJfxFUutiULdQbRughZeuw1IZ2QZ?usp=sharing" class="btn btn-colab">Colab</a>
+        <a href="https://colab.research.google.com/drive/1Oc11-xubSDAxjmoAOw7dx3McZ2t1C6FP?usp=sharing" class="btn btn-colab">Colab</a>
         <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
       </div>
     </div>
