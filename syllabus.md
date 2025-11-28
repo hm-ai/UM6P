@@ -36,7 +36,7 @@ permalink: /syllabus/
       <p>Introduction to clustering methods with an application in Feature Importance Analysis.</p>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Clustering_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
-        <span class="coming-soon btn btn-colab">Colab (Coming soon)</span>
+        <a href="https://colab.research.google.com/drive/1mUvHs6hg6V-FlOB_LO5oTy7SyLO3r3vD?usp=sharing" class="btn btn-colab">Colab</a>
         <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
       </div>
     </div>
