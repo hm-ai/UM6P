@@ -37,7 +37,7 @@ permalink: /syllabus/
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Clustering_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
         <a href="https://colab.research.google.com/drive/1mUvHs6hg6V-FlOB_LO5oTy7SyLO3r3vD?usp=sharing" class="btn btn-colab">Colab</a>
-        <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
+        <a href="https://colab.research.google.com/drive/158H9twVcO3US6HEX9AduOJ1cOQ5pwDKs?usp=sharing" class="btn btn-solution">Solution</a>
         <a href="https://hm-ai.github.io/BUSI70575/Lectures/Session_2/Lecture_2.pdf" class="btn">Optional Slides</a>
       </div>
     </div>
