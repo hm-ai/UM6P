@@ -48,8 +48,9 @@ permalink: /syllabus/
       <p>Introduction to latent variable models with a focus on Hidden Markov Models.</p>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/LVM_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
-        <span class="coming-soon btn btn-colab">Colab (Coming soon)</span>
+        <a href="https://colab.research.google.com/drive/18q1Q1-1hcRXsiz7j__ZqOl5zL3b2Ke5s?usp=sharing" class="btn btn-colab">Colab</a>
         <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
+        <a href="https://hm-ai.github.io/BUSI70575/Lectures/Session_3/Lecture_3.pdf" class="btn">Optional Slides</a>
       </div>
     </div>
 
