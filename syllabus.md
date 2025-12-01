@@ -8,6 +8,7 @@ permalink: /syllabus/
   <nav class="site-nav">
     <a href="{{ site.baseurl }}/">Home</a>
     <a href="{{ site.baseurl }}/syllabus/">Syllabus</a>
+    <a href="{{ site.baseurl }}/assessment/">Assessment</a>
     <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
   </nav>
 </header>
@@ -49,7 +50,7 @@ permalink: /syllabus/
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/LVM_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
         <a href="https://colab.research.google.com/drive/18q1Q1-1hcRXsiz7j__ZqOl5zL3b2Ke5s?usp=sharing" class="btn btn-colab">Colab</a>
-        <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
+        <a href="https://colab.research.google.com/drive/1ZrDJgx5kfBccNuAJdXekxttuH92I52Mz?usp=sharing" class="btn btn-solution">Solution</a>
         <a href="https://hm-ai.github.io/BUSI70575/Lectures/Session_3/Lecture_3.pdf" class="btn">Optional Slides</a>
       </div>
     </div>

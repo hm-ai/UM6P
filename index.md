@@ -7,6 +7,7 @@ title: Home
   <nav class="site-nav">
     <a href="{{ site.baseurl }}/">Home</a>
     <a href="{{ site.baseurl }}/syllabus/">Syllabus</a>
+    <a href="{{ site.baseurl }}/assessment/">Assessment</a>
     <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
   </nav>
 </header>
