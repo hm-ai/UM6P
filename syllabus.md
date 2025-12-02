@@ -61,8 +61,6 @@ permalink: /syllabus/
       <p>Exploring matrix factorization techniques with applications in Cluster-Based Feature Importance using PCA-GMMs.</p>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/LA_Mathematical_foundations_for_ML___UM6P_class.pdf" class="btn">Lecture Notes</a>
-        <span class="coming-soon btn btn-colab">Colab (Coming soon)</span>
-        <span class="coming-soon btn btn-solution">Solution (Coming soon)</span>
       </div>
     </div>
 
